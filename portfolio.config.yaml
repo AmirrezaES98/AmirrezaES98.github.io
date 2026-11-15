@@ -120,10 +120,14 @@ languages:
 
 # ── Skills ─────────────────────────────────────────────────────────────
 skills:
-  - "Robotics & Multi-Agent Systems"
-  - "Micro-controllers (Arduino, STM32, etc.)"
-  - "Programming (MATLAB, Python, C/C++)"
-  - "LaTeX (Typesetting & Document Preparation)"
+  - category: "Control Systems theory"
+    items: [Nonlinear Control, Model Predictive Control (MPC), Data-Driven Control]
+  - category: "Mathematics"
+    items: [Optimization, Linear Algebra, Probability, Lie Algebra]
+  - category: "Robotics & Hardware"
+    items: [Multi-Agent Systems, Micro-controllers (Arduino, STM32)]
+  - category: "Programming & Tools"
+    items: [MATLAB/Simulink, Python, C/C++, LaTeX]
 
 # ── Experience ─────────────────────────────────────────────────────────
 #experience:
