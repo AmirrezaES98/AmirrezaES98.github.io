@@ -115,18 +115,15 @@ stats:
 # ── Languages ──────────────────────────────────────────────────────────
 # level options: Native | Fluent | Conversational | Basic
 languages:
-  - { name: "English",  level: "Native"        }
-  - { name: "Spanish",  level: "Conversational" }
-  - { name: "Mandarin", level: "Basic"          }
+  - { name: "English",  level: "Fluent"        }
+  - { name: "Farsi",  level: "Native" }
 
 # ── Skills ─────────────────────────────────────────────────────────────
 skills:
-  - "Control Theory & Nonlinear Control"
-  - "Mathematics & Optimization"
   - "Robotics & Multi-Agent Systems"
-  - "Micro-controllers (Arduino, STM32)"
+  - "Micro-controllers (Arduino, STM32, etc.)"
   - "Programming (MATLAB, Python, C/C++)"
-   - "LaTeX (Typesetting & Document Preparation)"
+  - "LaTeX (Typesetting & Document Preparation)"
 
 # ── Experience ─────────────────────────────────────────────────────────
 #experience:
